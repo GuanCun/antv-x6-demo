@@ -8,3 +8,9 @@
 - [] LogicFlow
 - [] jsplumb
 - [] bpmn.js
+
+### 使用
+
+```bash
+pnpm install
+```

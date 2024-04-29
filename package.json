@@ -4,10 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "workspaces": [
     "packages/*"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": ">=v18.20.1"
+  },
+  "engine-strict": true
 }
