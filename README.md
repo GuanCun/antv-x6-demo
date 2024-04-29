@@ -1,9 +1,10 @@
-# antv-x6-demo
+# flow-designer-demo
 
-> 将 antv/x6 用于 vue 项目的示例
+> 流程设计器 demo
 
-规划
+### 规划
 
-- [] 基础示例
-- [] 项目示例 1
-- [] 项目示例 2
+- [] AntV X6
+- [] LogicFlow
+- [] jsplumb
+- [] bpmn.js
